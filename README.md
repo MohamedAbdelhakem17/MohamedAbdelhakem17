@@ -38,10 +38,11 @@ My name is Mohamed Abdelhakem. I am a frontend developer living in Cairo, Egypt.
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 
 ## 🔍  Where to find me
-
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />]([https://www.linkedin.com/in/valentinbriand42](https://www.linkedin.com/in/mohamed-abdelhakem-77880222a/))
+&nbsp;
 [<img src="https://img.shields.io/badge/facebook-282C34?logo=facebook&logoColor=#0866FF" alt="facebook logo" title="facebook" height="25" />](https://www.facebook.com/mohamed.abdelhakem.9693/)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />]([https://www.linkedin.com/in/valentinbriand42](https://www.linkedin.com/in/mohamed-abdelhakem-77880222a/))
+[<img src="https://img.shields.io/badge/instagram-282C34?logo=instagram&logoColor=#0866FF" alt="instagram logo" title="facebook" height="25" />](https://www.instagram.com/mohamed__abdelhakem/)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
