@@ -28,7 +28,6 @@ My name is Mohamed Abdelhakem. I am a frontend developer living in Cairo, Egypt.
 
 ## 📖  What I am currently learning/improving on
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-
 &nbsp;
 ## 👾  What I am interested in learning at some point
 [<img src="https://img.shields.io/badge/typeScript-282C34?logo=TypeScript&logoColor=#2F74C0" alt="TypeScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
