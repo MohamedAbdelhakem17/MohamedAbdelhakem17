@@ -23,6 +23,7 @@ My name is Mohamed Abdelhakem. I am a frontend developer living in Cairo, Egypt.
 &nbsp;
 [<img src="https://img.shields.io/badge/postman-282C34?logo=postman&logoColor=#F76935" alt="Postman logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
@@ -33,8 +34,7 @@ My name is Mohamed Abdelhakem. I am a frontend developer living in Cairo, Egypt.
 [<img src="https://img.shields.io/badge/typeScript-282C34?logo=TypeScript&logoColor=#2F74C0" alt="TypeScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+
 
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=#0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mohamed-abdelhakem-77880222a/)
