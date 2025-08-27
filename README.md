@@ -22,10 +22,7 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
 
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-  <!-- 2 جنب بعض --><div align="center">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" 
@@ -40,7 +37,7 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
     height="200px"
   />
 
-</div>
+
 
   <!-- التالت full-width -->
   <img 
