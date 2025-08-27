@@ -22,31 +22,32 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
 
 
 ## 📊 GitHub Stats
-<div align="center">
+
+<div align="center" style="display: flex; gap: 10px; align-items: stretch;">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
-    width="49%" 
-    height="400px"
+    style="flex:1;"
   />
+  
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=MohamedAbdelhakem17&theme=blueberry&hide_border=false" 
     alt="GitHub Streak" 
-    width="49%" 
-    height="400px"
+    style="flex:1;"
   />
 
+</div>
 
-
-  <!-- التالت full-width -->
+<!-- التالت full-width -->
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
     alt="Top Languages" 
     width="100%" 
   />
-
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohamedAbdelhakem17&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
