@@ -26,15 +26,26 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MohamedAbdelhakem17&theme=blueberry&hide_border=false) |
 |---|---|
 
-<!-- التالت full-width -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    alt="Top Languages"
+    width="100%" 
+  />
+</div>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohamedAbdelhakem17&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=MohamedAbdelhakem17&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=MohamedAbdelhakem17&limit=5&theme=github_dark&combine_all_yearly_contributions=true" 
+    alt="Top Contributed Repos"
+    width="100%" 
+  />
+</div>
 
 
 ---
