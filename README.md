@@ -35,8 +35,6 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohamedAbdelhakem17&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 <div align="center">
