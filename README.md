@@ -28,13 +28,13 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
     src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" 
     alt="GitHub Stats" 
     width="49%" 
-    height="200px"
+    height="400px"
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=MohamedAbdelhakem17&theme=blueberry&hide_border=false" 
     alt="GitHub Streak" 
     width="49%" 
-    height="200px"
+    height="400px"
   />
 
 
