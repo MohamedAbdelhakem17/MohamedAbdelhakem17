@@ -23,43 +23,19 @@ I am a Frontend and Backend Developer (MERN Stack) with strong expertise in Word
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; gap: 10px; align-items: stretch;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
-    style="flex:1;"
-  />
-  
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=MohamedAbdelhakem17&theme=blueberry&hide_border=false" 
-    alt="GitHub Streak" 
-    style="flex:1;"
-  />
-
-</div>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MohamedAbdelhakem17&theme=blueberry&hide_border=false) |
+|---|---|
 
 <!-- التالت full-width -->
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    alt="Top Languages" 
-    width="100%" 
-  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelhakem17&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohamedAbdelhakem17&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-<div align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=MohamedAbdelhakem17&limit=5&theme=github_dark&combine_all_yearly_contributions=true" 
-    alt="Top Contributed Repos" 
-    width="100%" 
-  />
-</div>
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=MohamedAbdelhakem17&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohamedAbdelhakem17&icon=2&color=1)](https://visitcount.itsvg.in)
